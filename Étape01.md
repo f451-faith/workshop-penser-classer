@@ -25,7 +25,7 @@ Texte d'introduction ici
 
 -----------------
 
-### :memo: Instructions Collecte 
+### :memo: Instructions
 
 1. Former des groupes de 1 à 5 personnes 
 2. Il ne s'agit pas de collecter au maximum mais de trouver du contenu qui est pertinent dans la constitution d'une archive. Les thématiques choisies doivent comporter un caractère historique, experimental, étrange, prospectif. (Ex de thèmes: Input Devices For Physically Disabled People, L'age d'or d'IBM, Les tutoriels d'utilisation) 
@@ -42,7 +42,7 @@ Site de départ des recherches:
 
 -----------------
 
-### :computer: Instructions Techniques 
+### :computer: Guideline Techniques
 La collecte s'effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) (cf. 2 premières lignes) et ici sur Github. 
 
 1. Chaque groupe/étudiant devra créer un nouvelle feuille avec le nom de son thème et reprendre exactement la même structure que la feuille 1.C
