@@ -38,16 +38,15 @@ L'étape 01 du workshop correspond à blabbla
 ### :black_joker: Guideline Design 
 L'objectif est de dévelloper une réfléxion sur la structure et la navigation. Pour cela nous avons mis en place les restrictions de format, de couleur et de typographie qui suivent: 
 1. Vous pouvez travailler sur le logiciel de votre choix, mais le format de rendu doit être de 1280x800px. 
-2. Une seule fonte devra être utilisée: Le Whyte Regular de Dinamo. Nous avons obtenu une license EDU-cational. Elle ne doit être utilisé uniquement pour le workshop. 
->D'ailleurs, Dynamo propose des tarifs étudiants interessants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack)
+2. Une seule fonte devra être utilisée: Le Whyte Regular de Dinamo. Nous avons obtenu une license EDU-cational. Elle ne doit être utilisé uniquement pour le workshop. (D'ailleurs, Dinamo propose des tarifs étudiants interessants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack))
 3. Les couleurs
 
 
 ![ffffff](http://via.placeholder.com/15/FFFFFF/000000?text=+) `#ffffff` White  
 ![#dcdcdc](https://via.placeholder.com/15/DCDCDC/000000?text=+) `#dcdcdc` Gainsboro  
-![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`Black  
-![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`Red  
-![#008000](https://via.placeholder.com/15/008000/000000?text=+) `#008000`Green  
+![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Black  
+![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` Red  
+![#008000](https://via.placeholder.com/15/008000/000000?text=+) `#008000` Green  
 ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) `#0000ff` Blue   
 ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` Yellow   
 
