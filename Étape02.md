@@ -1,11 +1,12 @@
 # Étape 02
 
-L'étape 01 du workshop correspond à blabbla
+L'étape 02 du workshop correspond à blabbla
 
 #### Table des matières 
 1. Programme  
 2. Instructions  
 3. Guideline Design  
+4. Références 
 
 -----------------
 ### :date: Programme
