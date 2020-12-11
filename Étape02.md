@@ -41,8 +41,12 @@ L'objectif est de dévelloper une réfléxion sur la structure et la navigation.
 2. Une seule fonte devra être utilisée: Le Whyte Regular de Dinamo. Nous avons obtenu une license EDU-cational. Elle ne doit être utilisé uniquement pour le workshop. 
 >D'ailleurs, Dynamo propose des tarifs étudiants interessants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack)
 3. Les couleurs
-- ![ffffff](https://via.placeholder.com/15/f03c15/000000?text=+) `White #ffffff`
-- ![#dcdcdc](https://via.placeholder.com/15/c5f015/000000?text=+) `Gainsboro #dcdcdc`
-- ![#000000](https://via.placeholder.com/15/1589F0/000000?text=+) `Black #000000`
+-  White #ffffff`
+-  `Gainsboro #dcdcdc`
+- `Black #000000`
+
+<div class="bg-blue-light mb-2">
+  .text-gray-dark on .bg-blue-light
+</div>
 
 
