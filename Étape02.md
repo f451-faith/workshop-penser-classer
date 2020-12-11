@@ -35,7 +35,7 @@ L'étape 01 du workshop correspond à blabbla
 
 -----------------
 
-### :black_joker: Guideline Design 
+### :shaved_ice: Guideline Design 
 L'objectif est de dévelloper une réfléxion sur la structure et la navigation. Pour cela nous avons mis en place les restrictions de format, de couleur et de typographie qui suivent: 
 1. Vous pouvez travailler sur le logiciel de votre choix, mais le format de rendu doit être de 1280x800px. 
 2. Une seule fonte devra être utilisée: Le Whyte Regular de Dinamo. Nous avons obtenu une license EDU-cational. Elle ne doit être utilisé uniquement pour le workshop. (D'ailleurs, Dinamo propose des tarifs étudiants interessants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack))
