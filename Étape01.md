@@ -3,7 +3,9 @@
 Texte d'introduction ici 
 
 #### Table des matières 
-1. Programme 2. Instructions 3. Guideline Techniques 
+1. Programme  
+2. Instructions  
+3. Guideline Techniques  
 
 -----------------
 ### :date: Programme
@@ -23,7 +25,7 @@ Texte d'introduction ici
 
 -----------------
 
-### :memo: Instructions
+### :memo: Instructions Collecte 
 
 1. Former des groupes de 1 à 5 personnes 
 2. Il ne s'agit pas de collecter au maximum mais de trouver du contenu qui est pertinent dans la constitution d'une archive. Les thématiques choisies doivent comporter un caractère historique, experimental, étrange, prospectif. (Ex de thèmes: Input Devices For Physically Disabled People, L'age d'or d'IBM, Les tutoriels d'utilisation) 
@@ -31,17 +33,17 @@ Texte d'introduction ici
 4. Chaque thème devra être constitué de 5 à 15 items (vidéos ou images) les plus pertinents. Ainsi qu'un texte descriptif d'environ 600 caractères
 5. L'utilisateur et l'outil doivent être présent dans l'image ou la vidéo de manière
 
-Site de départ des recherches:
-[https://en.wikipedia.org/wiki/Input_device](https://en.wikipedia.org/wiki/Input_device)
-[https://www.vintagecomputing.com/](https://www.vintagecomputing.com/)
-[https://www.dougengelbart.org/content/view/162/000/](https://www.dougengelbart.org/content/view/162/000/)
-[https://scifiinterfaces.com/](https://scifiinterfaces.com/)
-[http://oldcomputers.net/indexwp.html](http://oldcomputers.net/indexwp.html)
+Site de départ des recherches:  
+[https://en.wikipedia.org/wiki/Input_device](https://en.wikipedia.org/wiki/Input_device)  
+[https://www.vintagecomputing.com/](https://www.vintagecomputing.com/)  
+[https://www.dougengelbart.org/content/view/162/000/](https://www.dougengelbart.org/content/view/162/000/)  
+[https://scifiinterfaces.com/](https://scifiinterfaces.com/)  
+[http://oldcomputers.net/indexwp.html](http://oldcomputers.net/indexwp.html)  
 
+-----------------
 
-
-### :memo: Instructions
-La collecte s'effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) (cf. 2 premières lignes) et sur Github. 
+### :computer: Instructions Techniques 
+La collecte s'effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) (cf. 2 premières lignes) et ici sur Github. 
 
 1. Chaque groupe/étudiant devra créer un nouvelle feuille avec le nom de son thème et reprendre exactement la même structure que la feuille 1.C
 2. Chaque groupe/étudiant devra créer un repository Github avec le nom de son thème et glisser déposer 
