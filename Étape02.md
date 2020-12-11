@@ -47,4 +47,6 @@ L'objectif est de dévelloper une réfléxion sur la structure et la navigation.
 
 
 
-
+- ![#000000](http://via.placeholder.com/15/FFFFFF/000000?text=+) `#f03c15`
+- ![#dcdcdc](https://via.placeholder.com/15/DCDCDC/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
