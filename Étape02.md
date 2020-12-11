@@ -8,7 +8,7 @@ L'étape 02 du workshop correspond à blabbla
 3. Guideline Design  
 4. Références 
 
------------------
+----------------------------------
 ### :date: Programme
 
 * #### Mercredi 16
@@ -23,11 +23,11 @@ L'étape 02 du workshop correspond à blabbla
     * 12:30 - 13:30 — Pause :fork_and_knife:
     * 13:30 - 17:00 — Temps de devellopement du design 
 
-#### Vendredi 18
-* 09:00 - 12:30 — Temps de préparation à la présentation 
-* 12:30 - 13:30 — Pause :fork_and_knife:
-* 12:30 - 16:00 — Présentation et Feedbacks avec Christophe
-* 17:00 :santa:
+* #### Vendredi 18
+      * 09:00 - 12:30 — Temps de préparation à la présentation 
+      * 12:30 - 13:30 — Pause :fork_and_knife:
+      * 12:30 - 16:00 — Présentation et Feedbacks avec Christophe
+      * 17:00 :santa:
 
 
 -----------------
