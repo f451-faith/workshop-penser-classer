@@ -14,7 +14,7 @@ L'étape 02 du workshop correspond à blabbla
 * #### Mercredi 16
     * 09:00 - 10:30 — Présentation de l'étape 02 (Amphitéâtre)
     * 10:30 - 10:45 — Pause :coffee:
-    * 10:45 - 11:30 — Présentation de l'étape 02
+    * 10:45 - 11:30 — Présentation de l'étape 02 (Amphitéâtre)
     * 12:30 - 13:30 — Pause :fork_and_knife:
     * 13:30 - 17:00 — Temps de developpement du design 
 
