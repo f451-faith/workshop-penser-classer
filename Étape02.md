@@ -42,17 +42,13 @@ L'objectif est de dévelloper une réfléxion sur la structure et la navigation.
 >D'ailleurs, Dynamo propose des tarifs étudiants interessants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack)
 3. Les couleurs
 
-`#dcdcdc`
-`#000000`
 
-
-
-- ![ffffff](http://via.placeholder.com/15/FFFFFF/000000?text=+) `#ffffff` White
-- ![#dcdcdc](https://via.placeholder.com/15/DCDCDC/000000?text=+) `#dcdcdc` Gainsboro
-- ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`Black
-- ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`Red
-- ![#008000](https://via.placeholder.com/15/008000/000000?text=+) `008000`Green
-- ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) `0000ff` Blue 
-- ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `ffff00` Yellow 
+![ffffff](http://via.placeholder.com/15/FFFFFF/000000?text=+) `#ffffff` White  
+![#dcdcdc](https://via.placeholder.com/15/DCDCDC/000000?text=+) `#dcdcdc` Gainsboro  
+![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`Black  
+![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000`Red  
+![#008000](https://via.placeholder.com/15/008000/000000?text=+) `008000`Green  
+![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) `0000ff` Blue   
+![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `ffff00` Yellow   
 
 
