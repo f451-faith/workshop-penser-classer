@@ -10,12 +10,12 @@ L'étape 01 du workshop correspond à blalal
 -----------------
 ### :date: Programme
 
-#### Lundi 14
-* 09:00 - 10:30 — Présentation 
-* 10:30 - 10:45 — Pause :coffee:
-* 10:45 - 12:30 — Introduction du Workshop 
-* 12:30 - 13:30 — Pause :fork_and_knife:
-* 13:30 - 17:00 — Formation des groupes et recherches thématiques 
+* #### Lundi 14
+  * 09:00 - 10:30 — Présentation 
+  * 10:30 - 10:45 — Pause :coffee:
+  * 10:45 - 12:30 — Introduction du Workshop 
+  * 12:30 - 13:30 — Pause :fork_and_knife:
+  * 13:30 - 17:00 — Formation des groupes et recherches thématiques 
 
 #### Mardi 15
 * 09:00 - 12:30 — Collecte et rédaction des thématiques
