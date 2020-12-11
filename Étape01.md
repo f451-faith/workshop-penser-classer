@@ -17,11 +17,11 @@ L'étape 01 du workshop correspond à blalal
   * 12:30 - 13:30 — Pause :fork_and_knife:
   * 13:30 - 17:00 — Formation des groupes et recherches thématiques 
 
-#### Mardi 15
-* 09:00 - 12:30 — Collecte et rédaction des thématiques
-* 12:30 - 13:30 — Pause :fork_and_knife:
-* 12:30 - 16:00 — Collecte et rédaction des thématiques 
-* 16:00 - 17:00 — Déposez vos fichiers finals dans votre repository 
+* Mardi 15
+ * 09:00 - 12:30 — Collecte et rédaction des thématiques
+ * 12:30 - 13:30 — Pause :fork_and_knife:
+ * 12:30 - 16:00 — Collecte et rédaction des thématiques 
+ * 16:00 - 17:00 — Déposez vos fichiers finals dans votre repository 
 
 -----------------
 
