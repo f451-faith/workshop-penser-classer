@@ -26,7 +26,7 @@ L'étape 02 du workshop correspond à blabbla
 #### Vendredi 18
 * 09:00 - 12:30 — Temps de préparation à la présentation 
 * 12:30 - 13:30 — Pause :fork_and_knife:
-* 12:30 - 16:00 — Présentation et Feedbacks avec Christophe /play trombone
+* 12:30 - 16:00 — Présentation et Feedbacks avec Christophe
 * 17:00 :santa:
 
 
