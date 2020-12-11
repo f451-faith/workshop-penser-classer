@@ -1,6 +1,6 @@
 # Étape 01 
 
-Texte d'introduction ici 
+L'étape 01 du workshop correspond à blalal 
 
 #### Table des matières 
 1. Programme  
@@ -28,10 +28,10 @@ Texte d'introduction ici
 ### :memo: Instructions
 
 1. Former des groupes de 1 à 5 personnes 
-2. Il ne s'agit pas de collecter au maximum mais de trouver du contenu qui est pertinent dans la constitution d'une archive. Les thématiques choisies doivent comporter un caractère historique, experimental, étrange, prospectif. (Ex de thèmes: Input Devices For Physically Disabled People, L'age d'or d'IBM, Les tutoriels d'utilisation) 
+2. Choisir une thématique qui représente un un caractère historique, experimental, étrange, prospectif... (Ex de thèmes: L'age d'or d'IBM, Les tutoriels d'utilisation, Input Devices For Physically Disabled People ...) Il ne s'agit pas de collecter au maximum mais de trouver du contenu qui est pertinent dans la constitution d'une archive. 
 3. Le type de contenu peut-être divers, illustrations, publicités, didacticielle, Extraits de films, Photographie, Oeuvres. 
-4. Chaque thème devra être constitué de 5 à 15 items (vidéos ou images) les plus pertinents. Ainsi qu'un texte descriptif d'environ 600 caractères
-5. L'utilisateur et l'outil doivent être présent dans l'image ou la vidéo de manière
+4. Chaque thème devra être constitué de 5 à 15 items (vidéos ou images) les plus pertinents en rapport au thème choisi. Ainsi qu'un texte descriptif d'environ 600 caractères
+5. L'utilisateur et l'outil doivent être présent dans l'image ou la vidéo. 
 
 Site de départ des recherches:  
 [https://en.wikipedia.org/wiki/Input_device](https://en.wikipedia.org/wiki/Input_device)  
@@ -42,14 +42,14 @@ Site de départ des recherches:
 
 -----------------
 
-### :computer: Guideline Techniques
+### :computer: Guideline Techniques (Modalitées de rendu) 
 La collecte s'effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) (cf. 2 premières lignes) et ici sur Github. 
 
-1. Chaque groupe/étudiant devra créer un nouvelle feuille avec le nom de son thème et reprendre exactement la même structure que la feuille 1.C
-2. Chaque groupe/étudiant devra créer un repository Github avec le nom de son thème et glisser déposer 
+1. Chaque groupe/étudiant devra créer un nouvelle feuille avec le nom de son thème et reprendre exactement la même structure que la feuille 1.
+2. Chaque groupe/étudiant devra créer un repository Github avec le nom de son thème et déposées les images en suivant la nomclature (voir 3.) 
 3. Les images devront être renomée et suivre une nomenclature précise qui devra correspondre à celle indiquée dans le tableau.  (Ex: img0301.jpg  - 03: Numéro du groupe / 01:  Numéro de l'image) 
 4. Les vidéos doivent provenir de Youtube et Viméo et le lien devra comporter le temps de début de l'information d'interêts (sur youube: Bouton partager, puis cocher démarrer à:??:?? / Sur vimeo: Bouton partages, sélectionner le lien, puis cocher: Commencer la vidéo à ??:??)
-
+4. Mardi soir, votre feuille de tableur devra être éxporté au format .csv et deposer dans le votre repo Github de groupe. (Depuis Google Sheet, Fichier>Télécharger>valeurs séparées par des virgules (.csv, feuille active) 
 
 
 
