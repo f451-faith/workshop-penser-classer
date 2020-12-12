@@ -10,7 +10,8 @@ En s'inspirant de mouvements de publication indépendante et open source sur le 
 
 --------------
 
-Le workshop est divisé en deux étapes:  
+Le workshop se déroulera en deux étapes distinctes:  
+
 `Étape 01` - [Voir les instructions ici](https://github.com/domitille-f451/workshop/blob/main/%C3%89tape01.md) :point_right:  
 `Étape 02` - [Voir les instructions ici](https://github.com/domitille-f451/workshop/blob/main/%C3%89tape02.md) :point_right:
 
