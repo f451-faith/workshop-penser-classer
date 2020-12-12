@@ -6,7 +6,7 @@
 
 --------------
 
-En s’inspirant de mouvements de publication indépendante et open source sur le web, le workshop « Penser/Classer » est une investigation portée sur les défis et les opportunités des processus d’archivage numérique. De l’identification au stockage du contenu et de la classification à la présentation de ses spécificités, il s’agira de collectivement construire et penser une plateforme d’archivage numérique.
+En s’inspirant des mouvements de publication indépendante et open source sur le web, le workshop « Penser/Classer » est une investigation portée sur les défis et les opportunités des processus d’archivage numérique. De l’identification au stockage du contenu et de la classification à la présentation de ses spécificités, il s’agira de collectivement construire et penser une plateforme d’archivage numérique.
 
 --------------
 
