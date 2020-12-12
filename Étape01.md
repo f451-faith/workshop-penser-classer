@@ -1,13 +1,12 @@
 # Étape 01 
------------------
+
 L'étape 01 du workshop correspond à blalal
 
 #### Table des matières 
 1. Programme  
 2. Instructions  
 3. Guideline Techniques  
-
------------------
+--------------
 ### :date: Programme
 
 * #### Lundi 14
@@ -40,8 +39,7 @@ Site de départ des recherches:
 [https://scifiinterfaces.com/](https://scifiinterfaces.com/)  
 [http://oldcomputers.net/indexwp.html](http://oldcomputers.net/indexwp.html)  
 
------------------
-
+--------------
 ### :computer: Guideline Techniques (Modalitées de rendu) 
 La collecte s'effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) (cf. 2 premières lignes) et ici sur Github. 
 
@@ -52,4 +50,4 @@ La collecte s'effectuera de manière collective dans ce [tableur](https://docs.g
 4. Mardi soir, votre feuille de tableur devra être éxporté au format .csv et deposer dans le votre repo Github de groupe. (Depuis Google Sheet, Fichier>Télécharger>valeurs séparées par des virgules (.csv, feuille active) 
 
 
-
+--------------
