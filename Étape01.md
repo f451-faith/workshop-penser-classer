@@ -50,7 +50,7 @@ Site de départ des recherches:
 La collecte s'effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) (cf. 2 premières lignes) et ici sur Github. 
 
 1. Chaque groupe/étudiant devra créer un nouvelle feuille avec le nom de son thème et reprendre exactement la même structure que la feuille 1.
-2. Chaque groupe/étudiant devra créer un repository Github avec le nom de son thème et déposées les images en suivant la nomclature (voir 3.) 
+2. Chaque groupe/étudiant devra créer un repository Github avec le nom de son thème et déposer les images en suivant la nomclature imposée.(voir 3.) 
 3. Les images devront être renomée et suivre une nomenclature précise qui devra correspondre à celle indiquée dans le tableau.  (Ex: img0301.jpg  - 03: Numéro du groupe / 01:  Numéro de l'image) 
 4. Les vidéos doivent provenir de Youtube et Viméo et le lien devra comporter le temps de début de l'information d'interêts (sur youube: Bouton partager, puis cocher démarrer à:??:?? / Sur vimeo: Bouton partages, sélectionner le lien, puis cocher: Commencer la vidéo à ??:??)
 4. Mardi soir, votre feuille de tableur devra être éxporté au format .csv et deposer dans le votre repo Github de groupe. (Depuis Google Sheet, Fichier>Télécharger>valeurs séparées par des virgules (.csv, feuille active) 
