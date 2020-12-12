@@ -9,7 +9,7 @@ L'étape 02 du workshop correspond à blabbla
 4. Catégories et Filtres 
 5. Références 
 
------------------
+--------------
 
 ### :date: Programme
 
@@ -32,11 +32,11 @@ L'étape 02 du workshop correspond à blabbla
     * 17:00 :santa:
 
 
------------------
+--------------
 
 ### :memo: Instructions
 
------------------
+--------------
 
 ### :shaved_ice: Guideline Design 
 1. Vous pouvez travailler sur le logiciel de votre choix, mais le format de rendu doit être de 1280x800px. 
@@ -50,14 +50,13 @@ L'étape 02 du workshop correspond à blabbla
 ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) `#0000ff` Blue   
 ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` Yellow   
 
------------------
+--------------
 
 ### :open_file_folder: Catégories et Filtres 
 
------------------
+--------------
 
 ### :eight_pointed_black_star: Références
 
------------------
-
+--------------
 
