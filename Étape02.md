@@ -49,4 +49,14 @@ L'objectif est de dévelloper une réfléxion sur la structure et la navigation.
 ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) `#0000ff` Blue   
 ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` Yellow   
 
+-----------------
+
+### :open_file_folder: Catégories et Filtres 
+
+-----------------
+
+### :eight_pointed_black_star: Références
+
+-----------------
+
 
