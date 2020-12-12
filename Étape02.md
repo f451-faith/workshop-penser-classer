@@ -1,4 +1,4 @@
-# Étape 02
+# :two: Étape 02
 
 À partir du contenu récolté, des thèmes et catégories, chaque groupe devra designer une interface d’archive. La proposition devra s’axer autour d’un principe de navigation central et interroger principalement les notions de de visualisation, de navigation et de filtrage. L’objectif étant de développer une réflexion sur la structure, des restrictions de format, de couleur et de typographie sont imposées.
 
