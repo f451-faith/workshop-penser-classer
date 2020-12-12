@@ -1,6 +1,6 @@
 # Étape 02
 
-À partir du contenu récolté, des thèmes et catégories, chaque groupe devra designer une interface d'archive. La proposition devra s'axer autour d'un principe de navigation central et interroger principalement les notions de de visualisation, de navigation et de filtrage. L'objectif étant de développer une réflexion sur la structure, des restrictions de format, de couleur et de typographie sont imposés.
+À partir du contenu récolté, des thèmes et catégories, chaque groupe devra designer une interface d’archive. La proposition devra s’axer autour d’un principe de navigation central et interroger principalement les notions de de visualisation, de navigation et de filtrage. L’objectif étant de développer une réflexion sur la structure, des restrictions de format, de couleur et de typographie sont imposées.
 
 --------------
 
@@ -16,21 +16,21 @@
 ### :date: Programme
 
 * #### Mercredi 16
-    * 09:00 - 10:30 — Présentation de l'étape 02 (Amphitéâtre)
+    * 09:00 - 10:30 — Présentation de l’étape 02 (Amphitéâtre)
     * 10:30 - 10:45 — Pause :coffee:
-    * 10:45 - 11:30 — Présentation de l'étape 02 (Amphitéâtre)
+    * 10:45 - 11:30 — Présentation de l’étape 02 (Amphitéâtre)
     * 12:30 - 13:30 — Pause :fork_and_knife:
-    * 13:30 - 17:00 — Temps de developpement du design 
+    * 13:30 - 17:00 — Temps de développement du design 
 
 * #### Jeudi 17
-    * 13:30 - 17:00 — Temps de developpement du design 
+    * 13:30 - 17:00 — Temps de développement du design 
     * 12:30 - 13:30 — Pause :fork_and_knife:
-    * 13:30 - 17:00 — Temps de devellopement du design 
+    * 13:30 - 17:00 — Temps de développement du design 
 
 * #### Vendredi 18
     * 09:00 - 12:30 — Temps de préparation à la présentation 
     * 12:30 - 13:30 — Pause :fork_and_knife:
-    * 12:30 - 16:00 — Présentation et Feedbacks avec Christophe
+    * 12:30 - 16:00 — Présentation et Feed-back avec Christophe
     * 17:00 :santa:
 
 
@@ -42,9 +42,9 @@
 
 ### :shaved_ice: Guideline Design 
 1. Vous pouvez travailler sur le logiciel de votre choix, mais le format de rendu doit être de 1280x800px. 
-2. Une seule fonte devra être utilisée: Le Whyte Regular de Dinamo. Nous avons obtenu une license EDU-cational. Elle ne doit être utilisé uniquement pour le workshop!! (D'ailleurs, Dinamo propose des tarifs étudiants interessants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack))
+2. Une seule fonte devra être utilisée: Le Whyte Regular de Dinamo. Nous avons obtenu une licence EDU-cational. Elle ne doit être utilisée uniquement pour le workshop!! (D’ailleurs, Dinamo propose des tarifs étudiants intéressants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack))
 3. Les couleurs:  
-![ffffff](http://via.placeholder.com/15/FFFFFF/000000?text=+) `#ffffff` White  
+![ffffff](http://via.placeholder.com/15/FFFFFF/000000?text=+) ’#ffffff’ White  
 ![#dcdcdc](https://via.placeholder.com/15/DCDCDC/000000?text=+) `#dcdcdc` Gainsboro  
 ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Black  
 ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` Red  
