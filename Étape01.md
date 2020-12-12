@@ -1,4 +1,4 @@
-# Étape 01 
+# :one: Étape 01 
 
 L’étape 01 du workshop correspond à la collecte des contenus:
 
