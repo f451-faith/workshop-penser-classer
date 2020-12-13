@@ -47,7 +47,8 @@ Site de départ des recherches:
 
 --------------
 ### :computer:  Guideline technique  
-La collecte s’effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) (cf. 2 premières lignes) et ici sur Github. 
+La collecte s’effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) et ici sur Github. 
+>cf. 2 premières lignes du tableur pour exemple 
 
 1. Chaque groupe/étudiant devra créer une nouvelle feuille avec le nom de son thème et reprendre exactement la même structure que la feuille 1.
 2. Chaque groupe/étudiant devra créer un repository Github avec le nom de son thème et déposer les images en suivant la nomclature imposée.(voir 3.) 
