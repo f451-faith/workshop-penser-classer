@@ -35,7 +35,7 @@ Du passé au présent au futur ; cette archive aura pour objectif de rendre homm
 1. Former des groupes de 1 à 5 personnes 
 2. Choisir une thématique qui représente un caractère historique, expérimental, étrange, prospectif... (Ex de thèmes: L’âge d’or d’IBM, les tutoriels d’utilisation, Input Devices For Physically Disabled People ...) Il ne s’agit pas de collecter au maximum mais de trouver du contenu qui est pertinent dans la constitution d’une archive. 
 3. Le type de contenu peut-être divers, illustrations, publicités, didacticiel, Extraits de films, Photographie, Œuvres. 
-4. Chaque thème devra être constitué de 5 à 15 items (vidéos ou images) les plus pertinents en rapport au thème choisi. Ainsi qu’un texte descriptif d’environ 600 caractères
+4. Chaque thème devra être constitué de 5 à 20 items les plus pertinents en rapport au thème choisi. Ainsi qu’un texte descriptif d’environ 600 caractères
 5. L’utilisateur et l’outil doivent être présents dans l’image ou la vidéo. 
 
 Site de départ des recherches:  
