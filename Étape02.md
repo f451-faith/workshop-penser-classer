@@ -31,7 +31,7 @@
     * 09:00 - 12:30 — Temps de préparation à la présentation 
     * 12:30 - 13:30 — Pause :fork_and_knife:
     * 12:30 - 16:00 — Présentation et Feed-back avec Christophe
-    * 17:00 :santa:
+    * :santa: :christmas_tree: :snowflake:
 
 
 --------------
