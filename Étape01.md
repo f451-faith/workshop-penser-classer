@@ -52,9 +52,15 @@ La collecte s’effectuera de manière collective dans ce [tableur](https://docs
 
 1. Chaque groupe/étudiant devra créer une nouvelle feuille avec le nom de son thème et reprendre exactement la même structure que la feuille 1.
 2. Chaque groupe/étudiant devra créer un repository Github avec le nom de son thème et déposer les images en suivant la nomclature imposée.(voir 3.) 
-3. Les images devront être renommées et suivre une nomenclature précise qui devra correspondre à celle indiquée dans le tableau. (Ex: img0301.jpg — 03: Numéro du groupe / 01:  Numéro de l’image) 
+3. Les images devront être renommées et suivre une nomenclature précise qui devra correspondre à celle indiquée dans le tableau.
+ ```
+ Ex: img0301.jpg  
+        03: Numéro du groupe  
+          01:  Numéro de l’image
+ ```          
+           
 4. Les vidéos doivent provenir de YouTube et Viméo et le lien devra comporter le temps de début de l’information d’intérêts (sur YouTube: Bouton partager, puis cocher démarrer à:--:-- / sur vimeo: Bouton partages, sélectionner le lien, puis cocher: Commencer la vidéo à --:--). Les items vidéo devront être accompagnés d’une capture d’écran qui suit la même nomenclature que les images.
-4. Mardi soir, votre feuille de tableur devra être exporté au format .csv et déposée dans le votre repo Github de groupe. (Depuis Google Sheet, Fichier>Télécharger>valeurs séparées par des virgules [.csv, feuille active] 
+4. Mardi soir, votre feuille de tableur devra être exporté au format .csv et déposée dans le votre repo Github de groupe. (Depuis Google Sheet, `Fichier>Télécharger>valeurs séparées par des virgules [.csv, feuille active]`
 
 
 --------------
