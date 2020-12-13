@@ -4,7 +4,7 @@ L’étape 01 du workshop correspond à la collecte des contenus:
 
 > ### Cette archive en ligne s’articulera autour du thème suivant: exploration visuelle des gestes, des habitudes et des outils de l’interaction homme-machine.
 
-Du passé au présent au futur ; cette archive aura pour objectif de rendre hommage aux anciens outils d’interactions, aux créations visionnaires et à la diversité des interactions. Dans un environnement numérique centré sur le development du tactile et du « mobile first »,  cette recherche adoptera un caractère anthropologique. Cette archive devra se constituer d’images, vidéos et documents divers qui sont preuves claires et directes de l’interaction entre l’homme et l’ordinateur à travers le temps. Chaque groupe devra trouver une thématique comme angle de recherche et élaborer une petite collection de 5 à 20 items pour mettre en évidence des chemins d’évolutions, des modèles communs et une perception historique.
+Du passé au présent, du présent au futur. Cette archive aura pour objectif de rendre hommage aux anciens outils d’interactions, aux créations visionnaires et à la diversité des interactions imaginées dans l'histoire. Dans un environnement numérique centré sur le développement du tactile et du « mobile first », cette recherche adoptera un caractère anthropologique. Cette archive devra se constituer d’images, vidéos et documents divers qui sont preuves claires et directes de l’interaction entre l’homme et l’ordinateur à travers le temps. Chaque groupe devra trouver une thématique comme angle de recherche et élaborer une petite collection de 5 à 20 items pour mettre en évidence des chemins d’évolutions, des modèles communs et une perception historique.
 
 --------------
 
