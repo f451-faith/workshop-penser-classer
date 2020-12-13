@@ -9,10 +9,12 @@ Du passé au présent, du présent au futur. Cette archive aura pour objectif de
 --------------
 
 #### Table des matières 
-1. Programme  
-2. Instructions  
-3. Guideline technique  
+1. [Programme](https://github.com/domitille-f451/workshop-penser-classer/blob/main/%C3%89tape01.md#date--programme)  
+2. [Instructions](https://github.com/domitille-f451/workshop-penser-classer/blob/main/%C3%89tape01.md#memo--instructions)  
+3. [Guideline technique](https://github.com/domitille-f451/workshop-penser-classer/blob/main/%C3%89tape01.md#computer--guideline-technique)
+
 --------------
+
 ### :date:  Programme
 
 * #### Lundi 14
@@ -46,6 +48,7 @@ Site de départ des recherches:
 [http://oldcomputers.net/indexwp.html](http://oldcomputers.net/indexwp.html)  
 
 --------------
+
 ### :computer:  Guideline technique  
 La collecte s’effectuera de manière collective dans ce [tableur](https://docs.google.com/spreadsheets/d/1w9vFQPzr-pXHelSkZ2MjnzVrU2LndFCdSlxtCBIexNY/edit?usp=sharing) et ici sur Github. 
 >cf. 2 premières lignes du tableur pour exemple 
@@ -61,6 +64,5 @@ La collecte s’effectuera de manière collective dans ce [tableur](https://docs
            
 4. Les vidéos doivent provenir de YouTube et Viméo et le lien devra comporter le temps de début de l’information d’intérêts (sur YouTube: Bouton partager, puis cocher démarrer à:--:-- / sur vimeo: Bouton partages, sélectionner le lien, puis cocher: Commencer la vidéo à --:--). Les items vidéo devront être accompagnés d’une capture d’écran qui suit la même nomenclature que les images.
 4. Mardi soir, votre feuille de tableur devra être exporté au format .csv et déposée dans le votre repo Github de groupe. Depuis Google Sheet, `Fichier>Télécharger>valeurs séparées par des virgules [.csv, feuille active]`
-
 
 --------------
