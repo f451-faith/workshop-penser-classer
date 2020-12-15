@@ -13,12 +13,12 @@ En s’inspirant des mouvements de publication indépendante et open source sur 
 Le workshop se déroulera en deux étapes distinctes:  
 
 `Étape 01` — [Voir les instructions ici](https://github.com/domitille-f451/workshop/blob/main/%C3%89tape01.md) :point_right:  
-`Étape 02` — [Voir les instructions ici] :lock: (À partir de Mercredi)
+`Étape 02` — [Voir les instructions ici](https://github.com/domitille-f451/workshop/blob/main/%C3%89tape02.md) :point_right:
 
 --------------
 #### Références
 
-##### Code Culture 
+##### Culture générale sur le code
 + [W. Bradford Paley. 2018, Code Profiles ](https://www.youtube.com/watch?time_continue=54&v=Hs8rDvC3GZg&feature=emb_logo&ab_channel=WhitneyMuseumofAmericanArt)
 + [This is a motherfucking website](http://motherfuckingwebsite.com/)
 + [This is still a motherfucking website.](http://bettermotherfuckingwebsite.com/)
@@ -27,14 +27,14 @@ Le workshop se déroulera en deux étapes distinctes:
 + [Brutalist Websites](https://brutalistwebsites.com/)
 + [Webdesign Museum](https://www.webdesignmuseum.org/)
 
-##### Références Workshop 
+##### Références du workshop 
 + [Click Click Click](https://clickclickclick.click/)
 + [Apple Lisa Mouse Demo](https://www.youtube.com/watch?v=W35vpsPIwlU&feature=emb_logo&ab_channel=cassettiespagetie)
 + [I think I’ve fixed the notch issue in landscape](https://twitter.com/vojtastavik/status/907911237983449088)
 + [The Sweet Screen](https://vimeo.com/480297110)
 + [What Shall We Do Next](https://vimeo.com/111013619)
 
-##### Web Culture
+##### Culture du web
 + [Publish Something Online](https://publishsomething.online/)
 + [Lialina, O., 2015. Rich User Experience, UX and Desktopization of War.](http://contemporary-home-computing.org/RUE/)
 + [Prevent Default](https://event.preventdefault.net/)
@@ -43,13 +43,13 @@ Le workshop se déroulera en deux étapes distinctes:
 + [What do we lose when it's easy to use?](https://designportland.org/stories/2016/what-do-we-lose-when-its-easy-to-use)
 + [Lined & Unlined](https://linedandunlined.com/)
 
-##### Studio Référence
+##### Références de studio
 + [Folder Studio](https://folder.studio/dublab)
 + [Linked by Air](https://www.linkedbyair.net/)
 + [Yehwan Song](https://yhsong.com/)
 + [Studio Moniker](https://studiomoniker.com/)
 
-##### Projet F451 présentés lundi 
+##### Projets de F451 présentés lundi 
 
 + [Grafling](https://grafling.org/)
 + [\*Duuu Radio](https://duuuradio.fr/)
