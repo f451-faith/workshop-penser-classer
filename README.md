@@ -56,4 +56,4 @@ Le workshop se déroulera en deux étapes distinctes:
 + [GS20 Headline Generator](http://gs20editorial.online/)
 + [One-Tailed](http://domitilledebret.fish/)
 + [Object-Image](https://object-image.com/)
-+ [The art of Critique](https://theartofcritique.rietveldacademie.nl/)
++ [The Art of Critique](https://theartofcritique.rietveldacademie.nl/)
