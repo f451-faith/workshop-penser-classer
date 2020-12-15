@@ -49,7 +49,9 @@
 
 1. Vous pouvez travailler sur le logiciel de votre choix, mais le format de rendu pour chaque image doit être de 1280px x 800px. 
 2. Une seule fonte devra être utilisée: le ABC Whyte Regular de Dinamo. Vous trouverez le fichier .otf [ici](./00-ressources/ABCWhyteEdu-Regular.otf). Nous avons obtenu une licence EDU-cational. Elle doit être utilisée uniquement dans le cadre de ce workshop!! (D’ailleurs, Dinamo propose des tarifs étudiants intéressants ici: [https://abcdinamo.com/dinamo-student-pack](https://abcdinamo.com/dinamo-student-pack))
+
 ![Whyte Regular](./00-ressources/abc-whyte-regular.png)
+
 3. Vous ne pouvez utiliser que les couleurs suivantes:  
 ![#ffffff](http://via.placeholder.com/15/FFFFFF/000000?text=+) `#ffffff` White  
 ![#dcdcdc](https://via.placeholder.com/15/DCDCDC/000000?text=+) `#dcdcdc` Gainsboro  
