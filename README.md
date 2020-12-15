@@ -49,7 +49,7 @@ Le workshop se déroulera en deux étapes distinctes:
 + [Yehwan Song](https://yhsong.com/)
 + [Studio Moniker](https://studiomoniker.com/)
 
-##### Projet F451 présentés lundi. 
+##### Projet F451 présentés lundi 
 
 + [Grafling](https://grafling.org/)
 + [\*Duuu Radio](https://duuuradio.fr/)
