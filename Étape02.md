@@ -104,13 +104,12 @@
   + Groupe 11
   + Groupe 04
   + Groupe 15
-  + Groupe 09
   
 Pause :surfer:
 
+  + Groupe 09
   + Groupe 10
   + Groupe 06 
-  + Groupe 08
   + Groupe 01
   + Groupe 12
   + Groupe 02
