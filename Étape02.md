@@ -8,9 +8,10 @@
 1. [Programme](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#date--programme)
 2. [Instructions](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#memo--instructions)
 3. [Guideline design](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#shaved_ice--guideline-design) 
-4. [Références](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#eight_pointed_black_star--r%C3%A9f%C3%A9rences)
-5. [Modalités de présentation](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#clapper--modalit%C3%A9s-de-pr%C3%A9sentation)
-6. [Poursuite du projet](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#rocket--poursuite-du-projet)
+4. [Quelques conseils graphiques](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#volcano--quelques-conseils-graphiques)
+5. [Références](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#eight_pointed_black_star--r%C3%A9f%C3%A9rences)
+6. [Modalités de présentation](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#clapper--modalit%C3%A9s-de-pr%C3%A9sentation)
+7. [Poursuite du projet](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#rocket--poursuite-du-projet)
 
 --------------
 
@@ -59,7 +60,24 @@
 ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `#ff0000` Red  
 ![#008000](https://via.placeholder.com/15/008000/000000?text=+) `#008000` Green  
 ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) `#0000ff` Blue   
-![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` Yellow   
+![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` Yellow  
+
+--------------
+
+### :volcano: Quelques conseils graphiques 
+
+Après avoir vu la plupart de vos propositions, voici quelques conseils d’ordre graphique qui peuvent vous être utiles à tous :
+
++ N’ayez pas peur du vide. (exemple: [Windhager von Kaenel](https://windhagervonkaenel.com/))
++ N’ayez pas peur du plein. (exemple: [HGB Leipzig](http://www.hgb-leipzig.de/))
++ N’ayez pas peur du noir et blanc. (exemple: [Werkschau Thurgau](https://www.werkschautg.ch/page/kuenstlerinnen))
++ La typographie est un outil formidable! N'hésitez pas à vous servir des glyphes un peu cachés d’une typo en vous baladant dans la palette de glyphes (il y en a beaucoup dans le Whyte) et à oublier les icônes qui ne font que signifier l'évidence. (exemple: [Publish Something Online](https://publishsomething.online/))
++ Radicaliser vos propositions. Il n’est que rarement nécessaire d’avoir plus de deux corps typographiques et contrairement aux idées reçues, cela aidera à la compréhension des différents éléments de votre site. (exemple: [Beni Bischof](https://benibischof.ch))
++ Ne donnez pas trop d’importance aux titres, que ce soit le titre du site ou le titre des items. Un titre n'a pas nécessairement à être plus gros, plus gras, plus coloré. (exemple: [Ghostly](https://ghostly.com/))
++ Minimiser vos headers / footers / menus pour donner plus de place à vos contenus. (exemple: [Paris Internationale](https://parisinternationale.com/))
++ N’hésitez pas à utiliser des contenus qui ne vous arrangent pas, des textes et des titres trop longs, des images aux formats alambiqués. Cela peut aider à trouver des artifices graphiques intéressants!
++ Évitez l’effet "tapisserie" de certains éléments graphiques, cela risque de détourner de vos contenus pour rien.
++ N’ayez pas peur d’en faire peu plutôt que trop! (exemple: [Anish Kapoor](https://anishkapoor.com/))
 
 --------------
 
