@@ -12,6 +12,7 @@
 5. [Références](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#eight_pointed_black_star--r%C3%A9f%C3%A9rences)
 6. [Modalités de présentation](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#clapper--modalit%C3%A9s-de-pr%C3%A9sentation)
 7. [Poursuite du projet](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#rocket--poursuite-du-projet)
+8. [Retours globaux](https://github.com/f451-faith/workshop-penser-classer/blob/main/%C3%89tape02.md#crystal_ball--retours-globaux)
 
 --------------
 
