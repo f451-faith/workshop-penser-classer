@@ -142,3 +142,28 @@ Pause :surfer:
 Nous allons développer dans les semaines à venir un site internet regroupant l’ensemble des contenus de ce dossier GitHub, des références aux contenus collectés, en passant par vos recherches graphiques. N’hésitez pas à nous indiquer si vous ne souhaitez pas y figurer ou si, au contraire, vous souhaitez participer à cette suite donnée au projet!
 
 --------------
+
+### :crystal_ball: Retours globaux
+
+- Attention aux grilles de mise en page! Elles sont aussi importantes, si ce n'est plus importantes qu'en print.
+- Ayez confiance en la grille de mise en page "cachée" pour rendre compte des différentes sections de votre site. Les filets sont un parti-pris graphique fort et ne sont pas toujours nécessaires pour créer une mise en page claire.
+- Pensez de manière systématique. Un site internet est un objet graphique nécessairement systématique donc faites en sorte de le penser de cette manière. Rendez les marges et les corps typographiques cohérents sur l'ensemble d'un site.
+- Le pop-up n'est pas la seule option pour montrer davantage de contenus. N'ayez pas peur de partitionner votre contenu sur différentes pages très distinctes ou d'amener des contenus plutôt par des volets latéraux par exemple.
+- L'espace du site web dépasse largement celui de l'écran et avoir à scroller sur l'ensemble de la page plutôt que dans petites zones définies est en fait beaucoup plus intuitif.
+- Attention à la taille des corps typographiques, n'ayez pas peur de les garder assez petits (14px est une taille assez habituelle pour du texte courant)
+- N'hésitez pas à vous questionner sur le design d'un site à différentes tailles pour trouver des solutions qui fonctionnent à toutes les tailles. Créer un site responsive, ça n'est pas simplement réfléchir au design mobile et au design desktop indépendamment, mais réfléchir à des structures inhérentes au site qui fonctionnent partout et toujours.
+- Regardez beaucoup, beaucoup, beaucoup de sites internets, de tous les types, et interrogez-vous sur les structures qui le rendent singulier! N'hésitez pas à aller sur [SiteInspire](https://www.siteinspire.com/), [HoverStates](https://www.hoverstat.es), [Klikkentheke](https://klikkentheke.com/) et à regarder le travail d'excellents studios de webdesign ou de développement pour comprendre comment se structure un site internet:
+    - [Liebermann Kiepe Reddemann](https://liebermannkiepereddemann.de/)
+    - [Harris Blondmann](http://www.harrisblondman.nl/)
+    - [Tristan Bagot](https://www.tristanbagot.com/)
+    - [Folder Studio](https://folder.studio)
+    - [XXIX](https://www.xxix.co/)
+    - [Thibault Brevet](http://www.thibault.io/)
+    - [Banziger Hug](https://www.baenziger-hug.com/)
+    - [Ahmed Ghazi](https://ahmedghazi.com/)
+    - [Sylvain Julé](https://sylvain-jule.fr/)
+    - [Linked by Air](https://www.linkedbyair.net/)
+    - [Systemantics](https://www.systemantics.net/)
+    - [Knoth & Renner](https://knoth-renner.com/)
+    - [Studio RGB](https://studiorgb.be/)
+    - [Laurel Schwulst](http://laurelschwulst.com/)
